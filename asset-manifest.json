@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ymdb-react-v2/static/css/main.5e5f981a.chunk.css",
-    "main.js": "/ymdb-react-v2/static/js/main.7a5d71d1.chunk.js",
-    "main.js.map": "/ymdb-react-v2/static/js/main.7a5d71d1.chunk.js.map",
+    "main.js": "/ymdb-react-v2/static/js/main.09e6111f.chunk.js",
+    "main.js.map": "/ymdb-react-v2/static/js/main.09e6111f.chunk.js.map",
     "runtime-main.js": "/ymdb-react-v2/static/js/runtime-main.09ae9490.js",
     "runtime-main.js.map": "/ymdb-react-v2/static/js/runtime-main.09ae9490.js.map",
     "static/js/2.e5cbeb9b.chunk.js": "/ymdb-react-v2/static/js/2.e5cbeb9b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.09ae9490.js",
     "static/js/2.e5cbeb9b.chunk.js",
     "static/css/main.5e5f981a.chunk.css",
-    "static/js/main.7a5d71d1.chunk.js"
+    "static/js/main.09e6111f.chunk.js"
   ]
 }

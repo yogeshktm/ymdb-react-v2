@@ -11,9 +11,7 @@ export class SearchInput extends React.Component {
       handleLinkClick,
     } = this.props;
     let newData = _.values(fullData.Search).sort();
-    console.log(newData);
     let displayList = newData.map(function (item, key) {
-      console.log(item, key);
       return (
         <li>
           <a onClick={handleLinkClick} id={item.imdbID}>
@@ -31,7 +29,7 @@ export class SearchInput extends React.Component {
             type="search"
             id="search"
             autoComplete="off"
-            onKeyUp={handleChange}
+            onInput={handleChange}
             placeholder="Search"
           />
           <select onChange={handleMovieTypeChange}>

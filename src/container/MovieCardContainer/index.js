@@ -25,6 +25,7 @@ export class MovieCardContainer extends React.Component {
   }
   componentWillMount() {}
   componentDidMount() {}
+  componentDidUpdate() {}
   getMoviebyID(id) {
     const apiUrl = "https://www.omdbapi.com/?";
     const apiKey = "7c5d79b";
@@ -107,12 +108,17 @@ export class MovieCardContainer extends React.Component {
   }
   handleChange(e) {
     console.log(e.target.value);
-    this.setState({
-      searchKeyword: e.target.value,
+    // this.setState({
+    //   searchKeyword: e.target.value,
+    // });
+    let value = e.target.value;
+    this.setState((searchKeyword) => {
+      return { searchKeyword: value };
     });
+    console.log("test1", e.target.value.length);
+    console.log("test2", this.state.searchKeyword.length);
     if (e.target.value.length >= 3) {
-      e.preventDefault();
-      this.getMovieDetails(this.state.searchKeyword, true);
+      this.getMovieDetails(e.target.value, true);
     }
   }
   handleMovieTypeChange(e) {

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ymdb-react/static/css/main.cffce0f5.chunk.css",
-    "main.js": "/ymdb-react/static/js/main.7a5d71d1.chunk.js",
-    "main.js.map": "/ymdb-react/static/js/main.7a5d71d1.chunk.js.map",
-    "runtime-main.js": "/ymdb-react/static/js/runtime-main.9739a11f.js",
-    "runtime-main.js.map": "/ymdb-react/static/js/runtime-main.9739a11f.js.map",
-    "static/js/2.e5cbeb9b.chunk.js": "/ymdb-react/static/js/2.e5cbeb9b.chunk.js",
-    "static/js/2.e5cbeb9b.chunk.js.map": "/ymdb-react/static/js/2.e5cbeb9b.chunk.js.map",
-    "static/js/3.6226ea33.chunk.js": "/ymdb-react/static/js/3.6226ea33.chunk.js",
-    "static/js/3.6226ea33.chunk.js.map": "/ymdb-react/static/js/3.6226ea33.chunk.js.map",
-    "index.html": "/ymdb-react/index.html",
-    "static/css/main.cffce0f5.chunk.css.map": "/ymdb-react/static/css/main.cffce0f5.chunk.css.map",
-    "static/js/2.e5cbeb9b.chunk.js.LICENSE.txt": "/ymdb-react/static/js/2.e5cbeb9b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ymdb-react/static/media/bg1.1b2ec185.jpg"
+    "main.css": "/ymdb-react-v2/static/css/main.5e5f981a.chunk.css",
+    "main.js": "/ymdb-react-v2/static/js/main.7a5d71d1.chunk.js",
+    "main.js.map": "/ymdb-react-v2/static/js/main.7a5d71d1.chunk.js.map",
+    "runtime-main.js": "/ymdb-react-v2/static/js/runtime-main.09ae9490.js",
+    "runtime-main.js.map": "/ymdb-react-v2/static/js/runtime-main.09ae9490.js.map",
+    "static/js/2.e5cbeb9b.chunk.js": "/ymdb-react-v2/static/js/2.e5cbeb9b.chunk.js",
+    "static/js/2.e5cbeb9b.chunk.js.map": "/ymdb-react-v2/static/js/2.e5cbeb9b.chunk.js.map",
+    "static/js/3.6226ea33.chunk.js": "/ymdb-react-v2/static/js/3.6226ea33.chunk.js",
+    "static/js/3.6226ea33.chunk.js.map": "/ymdb-react-v2/static/js/3.6226ea33.chunk.js.map",
+    "index.html": "/ymdb-react-v2/index.html",
+    "static/css/main.5e5f981a.chunk.css.map": "/ymdb-react-v2/static/css/main.5e5f981a.chunk.css.map",
+    "static/js/2.e5cbeb9b.chunk.js.LICENSE.txt": "/ymdb-react-v2/static/js/2.e5cbeb9b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ymdb-react-v2/static/media/bg1.1b2ec185.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9739a11f.js",
+    "static/js/runtime-main.09ae9490.js",
     "static/js/2.e5cbeb9b.chunk.js",
-    "static/css/main.cffce0f5.chunk.css",
+    "static/css/main.5e5f981a.chunk.css",
     "static/js/main.7a5d71d1.chunk.js"
   ]
 }
